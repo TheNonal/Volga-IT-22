@@ -1,0 +1,19 @@
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\Волга- IT'22.exe
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\Волга- IT'22.deps.json
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\Волга- IT'22.runtimeconfig.json
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\Волга- IT'22.runtimeconfig.dev.json
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\Волга- IT'22.dll
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\ref\Волга- IT'22.dll
+C:\Users\student\source\repos\Волга- IT'22\bin\Debug\net5.0-windows\Волга- IT'22.pdb
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга__IT_22.Form1.resources
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга__IT_22.Form2.resources
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.AssemblyInfo.cs
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.dll
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\ref\Волга- IT'22.dll
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.pdb
+C:\Users\student\source\repos\Волга- IT'22\obj\Debug\net5.0-windows\Волга- IT'22.genruntimeconfig.cache
